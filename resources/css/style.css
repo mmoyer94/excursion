@@ -1,21 +1,19 @@
-header h1 {
-    font-family: Verdana;
-    font-weight: normal;
-    font-size: 50px;
+body {
+    background-color: black;
     color: white;
     text-align: center;
+    Font-family: Verdana, sans-serif;
+}
+    h1 {
+    font-weight: normal;
+    font-size: 50px;
 }
 
-a {
+#exlink {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
 }
 
-.video {
-    background-color: black;
-    text-align: center;
-}
 
 h2 {
     font-family: Verdana;
@@ -24,12 +22,11 @@ h2 {
 }
 
 .guide p {
-    font-family: Verdana;
     font-size: 21px;
     color: gray;
 }
 
-footer {
+.footer {
     text-align: right;
     color: gray;
 }
